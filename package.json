@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "bootcamp_test1",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo '测试通过！'"  # 测试命令：只输出一句话，确保不报错
+    "test": "echo '测试通过！'"
   }
 }
